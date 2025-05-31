@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
+Welcome to my coding projects
 ---
-  This is the place where I store my ideas
+ Here you will find many things, most of the time just tools and such. Feel free to use, contribute, and help. 
